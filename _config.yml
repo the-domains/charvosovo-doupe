@@ -1,0 +1,28 @@
+name: Charvošovo doupě
+favicon: null
+layout_spectrum: 0.3499426580965519
+typography_spectrum: 0.30098603502847254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7587237642146647
+  lightness: 0.6740192654542625
+  saturation: 0.6312190624885261
+  rhythmicContrast: 0.9076275995466858
+purpose: []
